@@ -1,0 +1,43 @@
+name: rough_code
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.4.0
+  carousel_slider: ^4.2.1
+  curved_navigation_bar: ^1.0.6
+  
+    
+  
+  
+    
+   
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/1st image.png
+    - assets/2nd image.jpeg
+    - assets/3rd image.jpg
+    - assets/4th image.jpg
+    - assets/5th image.webp
+    - assets/6th image.jpeg
+    - assets/7th image.png
+    - assets/8th image.jpg
+    - assets/9th image.jpeg
+    - assets/10th image.jpeg 
+    - assets/SELLERSHOME 1.jpeg
+    - assets/SELLERSHOME 2.jpeg
+    - assets/SELLERSHOME 3.png

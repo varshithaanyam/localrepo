@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259271451795",
+    "project_id": "metasphere-31e06",
+    "storage_bucket": "metasphere-31e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259271451795:android:91305d3741f740edb5d966",
+        "android_client_info": {
+          "package_name": "com.example.rough_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGbrqga2_fHWRWGVTVNZwsHiPCncczI5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
